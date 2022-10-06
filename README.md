@@ -1,17 +1,37 @@
 # 취업/이직 코딩테스트 대비 알고리즘 스터디 ✨
 
-### `스터디 진행 방식`
-1. 월요일 ~ 일요일 일주일동안 출제된 문제 3개 풀기 + 본인이 풀면서 좋다고 생각하는 문제 공유
-2. Repository에 본인 이름으로 브랜치 생성하고 문제 풀이 후, master 브랜치에 PR하기
-3. PR 후 팀원들의 코드 리뷰가 완료되면 master에 merge하는 방식으로 진행
-4. 문제는 프로그래머스, 백준, leetcode에서 뽑아서 풀 예정이고, 문제는 매주 한 명씩 돌아가면서 출제
-5. 본인이 문제 풀이에 사용한 알고리즘을 자율적으로 정리해서 올리기 (강제 no)
+## 스터디 진행 방식
+- 매주 월요일에 출제되는 3 + α 개의 문제를 Java 언어로 일요일까지 풀어서 PR(Pull Request)한다.
+- 공유하고 싶은 공부한 내용이나 팁 등을 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 공유한다.
+- 문제를 풀면서 이해가 안되거나 도움이 필요할 경우 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 질문한다.
+- 다같이 풀어보고 싶거나 추천하고 싶은 문제는 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 추천한다.
+- 문제가 아무리 안풀려도, 리뷰 전까지는 절대 찾아보지말고 혼자 생각해본다.
 
-### `고민중인 것들.. (의견 주십쇼!)`
-- 일주일에 한 번 모여서 문제 풀이 발표를 할지 말지..?
-- PR 방식은 어떤 방식으로..?
-- 문제 출제 방식은..?
 
-## 읽어보시고, 다른 의견이 있으면 알려주세요!
-
-	
+## 문제
+<details>
+<summary><b>워밍업🔥: 2022-10-06 ~ 2022-10-10</b></summary>
+<br/>
+<div markdown="1">
+<table>
+  <tr>
+    <th>문제 번호</th>
+    <th>문제 이름</th>
+    <th>문제 유형</th>
+    <th>난이도</th>
+  <tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a></td>
+    <td>해시</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a></td>
+    <td>해시</td>
+    <td>Easy</td>
+  </tr>
+</table>
+</div>
+</details>
