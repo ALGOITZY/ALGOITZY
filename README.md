@@ -1,5 +1,7 @@
 # 취업/이직 코딩테스트 대비 알고리즘 스터디 ✨
 
+[스터디 상세 규칙](https://github.com/algorithm-study/algorithm-study/wiki/%F0%9F%94%A5-%EC%8A%A4%ED%84%B0%EB%94%94-Branch-%EB%B0%8F-PR-%EA%B7%9C%EC%B9%99-%F0%9F%94%A5) 참고 
+
 ## 스터디 진행 방식
 - 매주 월요일에 출제되는 3 + α 개의 문제를 Java 언어로 일요일까지 풀어서 PR(Pull Request)한다.
 - 공유하고 싶은 공부한 내용이나 팁 등을 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 공유한다.
