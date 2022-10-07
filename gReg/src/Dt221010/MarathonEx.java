@@ -36,12 +36,10 @@ public class MarathonEx {
 		
 		String[] p2 = { "marina", "josipa", "nikola", "vinko", "filipa" };
 		String[] c2 = { "josipa", "filipa", "marina", "nikola" };
-		//MarathonEx sol2 = new MarathonEx();
 		System.out.println(sol.solution(p2, c2));
 		
 		String[] p3 = { "mislav", "stanko", "mislav", "ana" };
 		String[] a3 = { "stanko", "ana", "mislav" };
-		//MarathonEx sol3 = new MarathonEx();
 		System.out.println(sol.solution(p3, a3));		
 	}
 
