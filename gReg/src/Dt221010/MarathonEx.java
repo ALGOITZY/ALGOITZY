@@ -1,9 +1,8 @@
 package Dt221010;
 
 import java.util.*;
-public class MarathonEx {
 
-	// class Solution {
+public class MarathonEx {
 	public String solution(String[] participant, String[] completion) {
 		String answer = "";
 
@@ -22,10 +21,8 @@ public class MarathonEx {
 				break;
 			}
 		}
-		
 		return answer;
 	}
-	// }
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
