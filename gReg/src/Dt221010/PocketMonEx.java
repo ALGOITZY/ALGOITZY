@@ -21,7 +21,10 @@ public class PocketMonEx {
 		
 		int distinctCnt = (int)s1.distinct().count();
 		
-		if(distinctCnt >= possibleNo) // runtime error : IllegalStateException - stream has already been operated upon or closed
+		// runtime error : IllegalStateException - stream has already been operated upon or closed
+		// if((int)s1.distinct().count() >= possibleNo)
+		
+		if(distinctCnt >= possibleNo) 
 			answer = possibleNo;
 		else
 			answer = distinctCnt;
