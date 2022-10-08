@@ -1,8 +1,9 @@
-package programmers;
+import java.util.HashSet;
+import java.util.Set;
 
-// 폰켓몬
-public class PG1845 {
-
+// https://school.programmers.co.kr/learn/courses/30/lessons/1845
+// 포켓몬 문제
+public class pg1845 {
     public int solution(int[] nums) {
         Set<Integer> set = new HashSet<>();
         for (int num : nums) {
@@ -10,7 +11,7 @@ public class PG1845 {
         }
         int maxSize = nums.length / 2;
         int setSize = set.size();
-        return maxSize < setSize ? maxSize : setSize;
+        return Math.min(maxSize, setSize);
     }
 
     /*
@@ -33,5 +34,6 @@ public class PG1845 {
     테스트 17 〉	통과 (6.45ms, 77.5MB)
     테스트 18 〉	통과 (4.39ms, 78.7MB)
     테스트 19 〉	통과 (6.79ms, 84.8MB)
-    테스트 20 〉	통과 (4.43ms, 77.6MB)*/
+    테스트 20 〉	통과 (4.43ms, 77.6MB)
+    */
 }
