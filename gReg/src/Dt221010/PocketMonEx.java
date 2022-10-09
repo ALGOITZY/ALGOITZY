@@ -17,6 +17,7 @@ public class PocketMonEx {
 			strs[a] = Integer.toString(nums[a]);
 		}
 		
+		// Steam : sql처럼 쓸 수 있음 
 		Stream<String> s1 = Arrays.stream(strs);
 		
 		int distinctCnt = (int)s1.distinct().count();
