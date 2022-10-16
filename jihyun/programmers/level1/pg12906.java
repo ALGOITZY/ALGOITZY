@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.IntFunction;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12906
 public class pg12906 {
