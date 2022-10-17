@@ -12,7 +12,7 @@
 
 # 문제
 <details markdown="1">
-<summary><strong>워밍업🔥: 2022-10-06 ~ 2022-10-10</strong></summary>
+<summary><strong>🔥 워밍업: 2022-10-06 ~ 2022-10-10</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부|
@@ -23,13 +23,26 @@
 </details>
 
 <details markdown="1">
-<summary><strong>1주차✨: 2022-10-10 ~ 2022-10-17</strong></summary>
+<summary><strong>✨ 2주차: 2022-10-10 ~ 2022-10-17</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
 | :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :----------:|
-| [42578](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장 | `해시(Hash)` | Level 2 | &#9744; |
-| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | &#9744; |
-| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 | `스택/큐(Stack/Queue)` | Level 2| &#9744; |
+| [42578](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장 | `해시(Hash)` | Level 2 | &#9745; |
+| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | &#9745; |
+| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 | `스택/큐(Stack/Queue)` | Level 2| &#9745; |
+
+</details>
+
+<details markdown="1">
+<summary><strong>☕️ 3주차: 2022-10-17 ~ 2022-10-24</strong></summary>
+<br/>
+
+| 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
+| :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :----------:|
+| [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 최소직사각형 | `완전탐색` | Level 1 | &#9744; |
+| [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | 모의고사 | `완전탐색` | Level 1 | &#9744; |
+| [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발 | `스택/큐(Stack/Queue)` | Level 2| &#9744; |
+| [42587](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 프린터 | `스택/큐(Stack/Queue)` | Level 2| &#9744; |
 
 </details>
