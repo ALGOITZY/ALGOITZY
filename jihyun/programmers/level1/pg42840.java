@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+
+import static java.util.stream.Collectors.toList;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/42840
 // 모의 고사
@@ -20,10 +25,10 @@ public class pg42840 {
 
         int top = Arrays.stream(sum).max().getAsInt();
 
-        List<Integer> list = new ArrayList<>();
-        for(int i=0; i<3; i++){
-            if(top == sum[i]) list.add(i+1);
-        }
+        List<Integer> list = IntStream.range(0, sum.length)
+                .filter(i -> sum[i] == top)
+                .mapToObj(i -> i+1)
+                .collect(Collectors.toList());
 
         return list.stream().mapToInt(i -> i).toArray();
     }
