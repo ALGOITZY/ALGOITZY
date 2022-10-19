@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/42840
@@ -17,10 +18,7 @@ public class pg42840 {
             if(answers[i] == answer3[i%10]) sum[2]+=1;
         }
 
-        int top = 0;
-        for(int score : sum){
-            top = Math.max(top, score);
-        }
+        int top = Arrays.stream(sum).max().getAsInt();
 
         List<Integer> list = new ArrayList<>();
         for(int i=0; i<3; i++){
