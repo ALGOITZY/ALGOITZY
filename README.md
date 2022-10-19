@@ -1,4 +1,4 @@
-# 취업/이직 코딩테스트 대비 알고리즘 스터디 ✨
+# 취업/이직 코딩테스트 대비 알고리즘 스터디 - ALGOITZY ✨
 
 [스터디 상세 규칙](https://github.com/algorithm-study/algorithm-study/wiki/%F0%9F%94%A5-%EC%8A%A4%ED%84%B0%EB%94%94-Branch-%EB%B0%8F-PR-%EA%B7%9C%EC%B9%99-%F0%9F%94%A5) 참고 
 
@@ -17,8 +17,8 @@
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부|
 | :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :---------:|
-| [1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                 | 폰켓몬 | `해시(Hash)` | Level 1 | &#9745; |
-| [42576](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수 | `해시(Hash)` | Level 1 | &#9745; |
+| [1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                 | 폰켓몬 | `해시(Hash)` | Level 1 | :white_check_mark: |
+| [42576](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수 | `해시(Hash)` | Level 1 | :white_check_mark: |
 
 </details>
 
@@ -28,9 +28,9 @@
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
 | :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :----------:|
-| [42578](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장 | `해시(Hash)` | Level 2 | &#9745; |
-| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | &#9745; |
-| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 | `스택/큐(Stack/Queue)` | Level 2| &#9745; |
+| [42578](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장 | `해시(Hash)` | Level 2 | :white_check_mark: |
+| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | :white_check_mark: |
+| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 | `스택/큐(Stack/Queue)` | Level 2| :white_check_mark: |
 
 </details>
 
