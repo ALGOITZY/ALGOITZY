@@ -1,3 +1,7 @@
+package programmers.level1;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class PG42576 {
 	public String solution(String[] participant, String[] completion) {

@@ -1,3 +1,7 @@
+package programmers.level1;
+
+import java.util.HashSet;
+import java.util.Set;
 
 public class PG1845 {
 	public int solution(int[] nums) {
