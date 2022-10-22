@@ -1,36 +1,32 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/42586
 // 기능개발
 public class pg42586 {
     public int[] solution(int[] progresses, int[] speeds) {
-        int size = progresses.length;
-        int[] time = new int[size];
-
-        for(int i=0; i<size; i++){
-            int t = (100-progresses[i])/speeds[i];
-            time[i] = (100-progresses[i])%speeds[i] == 0 ? t : t+1;
+        Queue<Integer> queue = new LinkedList<>();
+        for(int i=0; i<progresses.length; i++){
+            queue.add(calculateTime(progresses[i], speeds[i]));
         }
 
-        int answerSize = 1;
-        int standardT = time[0];
         List<Integer> list = new ArrayList<>();
-        for(int i=1; i<size; i++) {
-            if(time[i] > standardT) {
-                list.add(answerSize);
-                answerSize = 0;
-                standardT = time[i];
+        int cnt = 0; int standard = queue.poll();
+        for(int q : queue){
+            ++cnt;
+            if(q > standard) {
+                standard = q;
+                list.add(cnt);
+                cnt = 0;
             }
-            answerSize+=1;
         }
-        list.add(answerSize);
+        list.add(++cnt);
 
-        int[] answer = new int[list.size()];
-        for(int i=0; i<list.size(); i++) {
-            answer[i] = list.get(i);
-        }
+        return list.stream().mapToInt(i->i).toArray();
+    }
 
-        return answer;
+    public int calculateTime(int p, int s){
+        int leftProgress = 100 - p;
+        int t = leftProgress/s;
+        return leftProgress % s == 0 ? t : t+1;
     }
 }
