@@ -60,3 +60,15 @@
 | [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식 가격 | `스택/큐(Stack/Queue)` | Level 2| &#9744; |
 
 </details>
+
+<details markdown="1">
+<summary><strong>🚨 5주차: 2022-10-31 ~ 2022-11-07</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범 | `해시(Hash)` | Level 3 | &#9744;  |
+| [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |   더 맵게   |  `힙(Heap)`  | Level 2 | &#9744;  |
+| [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |  소수 찾기  |  `완전탐색`  | Level 2 | &#9744;  |
+
+</details>
