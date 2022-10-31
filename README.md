@@ -55,9 +55,9 @@
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
 | :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :----------:|
-| [42577](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록 | `해시(Hash)` | Level 2 | &#9744; |
-| [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 | `스택/큐(Stack/Queue)` | Level 2 | &#9744; |
-| [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식 가격 | `스택/큐(Stack/Queue)` | Level 2| &#9744; |
+| [42577](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록 | `해시(Hash)` | Level 2 | :white_check_mark: |
+| [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 | `스택/큐(Stack/Queue)` | Level 2 | :white_check_mark: |
+| [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식 가격 | `스택/큐(Stack/Queue)` | Level 2| :white_check_mark: |
 
 </details>
 
