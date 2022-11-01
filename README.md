@@ -11,26 +11,29 @@
 
 
 # 문제
+
 <details markdown="1">
-<summary><strong>🔥 워밍업: 2022-10-06 ~ 2022-10-10</strong></summary>
+<summary><strong>🚨 5주차: 2022-10-31 ~ 2022-11-07</strong></summary>
 <br/>
 
-| 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부|
-| :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :---------:|
-| [1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                 | 폰켓몬 | `해시(Hash)` | Level 1 | :white_check_mark: |
-| [42576](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수 | `해시(Hash)` | Level 1 | :white_check_mark: |
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범 | `해시(Hash)` | Level 3 | &#9744;  |
+| [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |   더 맵게   |  `힙(Heap)`  | Level 2 | &#9744;  |
+| [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |  소수 찾기  |  `완전탐색`  | Level 2 | &#9744;  |
 
 </details>
 
+
 <details markdown="1">
-<summary><strong>✨ 2주차: 2022-10-10 ~ 2022-10-17</strong></summary>
+<summary><strong>💪🏻 4주차: 2022-10-24 ~ 2022-10-31</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
 | :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :----------:|
-| [42578](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장 | `해시(Hash)` | Level 2 | :white_check_mark: |
-| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | :white_check_mark: |
-| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 | `스택/큐(Stack/Queue)` | Level 2| :white_check_mark: |
+| [42577](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록 | `해시(Hash)` | Level 2 | :white_check_mark: |
+| [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 | `스택/큐(Stack/Queue)` | Level 2 | :white_check_mark: |
+| [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식 가격 | `스택/큐(Stack/Queue)` | Level 2| :white_check_mark: |
 
 </details>
 
@@ -47,28 +50,25 @@
 
 </details>
 
-</details>
-
 <details markdown="1">
-<summary><strong>💪🏻 4주차: 2022-10-24 ~ 2022-10-31</strong></summary>
+<summary><strong>✨ 2주차: 2022-10-10 ~ 2022-10-17</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
 | :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :----------:|
-| [42577](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록 | `해시(Hash)` | Level 2 | :white_check_mark: |
-| [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 | `스택/큐(Stack/Queue)` | Level 2 | :white_check_mark: |
-| [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식 가격 | `스택/큐(Stack/Queue)` | Level 2| :white_check_mark: |
+| [42578](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장 | `해시(Hash)` | Level 2 | :white_check_mark: |
+| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | :white_check_mark: |
+| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 | `스택/큐(Stack/Queue)` | Level 2| :white_check_mark: |
 
 </details>
 
 <details markdown="1">
-<summary><strong>🚨 5주차: 2022-10-31 ~ 2022-11-07</strong></summary>
+<summary><strong>🔥 워밍업: 2022-10-06 ~ 2022-10-10</strong></summary>
 <br/>
 
-|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
-| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범 | `해시(Hash)` | Level 3 | &#9744;  |
-| [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |   더 맵게   |  `힙(Heap)`  | Level 2 | &#9744;  |
-| [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |  소수 찾기  |  `완전탐색`  | Level 2 | &#9744;  |
+| 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부|
+| :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :---------:|
+| [1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                 | 폰켓몬 | `해시(Hash)` | Level 1 | :white_check_mark: |
+| [42576](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수 | `해시(Hash)` | Level 1 | :white_check_mark: |
 
 </details>
