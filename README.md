@@ -13,7 +13,7 @@
 # 문제
 
 <details markdown="1">
-<summary><strong>🚨 5주차: 2022-10-31 ~ 2022-11-07</strong></summary>
+<summary><strong>✅ 5주차: 2022-10-31 ~ 2022-11-07</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
@@ -26,7 +26,7 @@
 
 
 <details markdown="1">
-<summary><strong>💪🏻 4주차: 2022-10-24 ~ 2022-10-31</strong></summary>
+<summary><strong>✅ 4주차: 2022-10-24 ~ 2022-10-31</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
@@ -38,7 +38,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>☕️ 3주차: 2022-10-17 ~ 2022-10-24</strong></summary>
+<summary><strong>✅ 3주차: 2022-10-17 ~ 2022-10-24</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
@@ -51,7 +51,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>✨ 2주차: 2022-10-10 ~ 2022-10-17</strong></summary>
+<summary><strong>✅ 2주차: 2022-10-10 ~ 2022-10-17</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
