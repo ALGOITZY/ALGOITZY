@@ -1,7 +1,7 @@
 import java.util.*;
 // https://school.programmers.co.kr/learn/courses/30/lessons/42626
 // 더 맵게
-class Solution {
+class pg42626 {
     public int solution(int[] scovilleList, int K) {
         PriorityQueue<Integer> heap = new PriorityQueue<>();    
         for(int scov : scovilleList) {
