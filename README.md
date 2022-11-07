@@ -11,6 +11,17 @@
 
 
 # 문제
+<details markdown="1">
+<summary><strong>✅ 6주차: 2022-11-07 ~ 2022-11-14</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 가장 큰 수 | `정렬` | Level 2 | &#9744;  |
+| [42860](https://school.programmers.co.kr/learn/courses/30/lessons/42860) |   조이스틱   |  `탐욕법(Greedy)`  | Level 2 | &#9744;  |
+| [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |  큰 수 만들기  |  `탐욕법(Greedy)`  | Level 2 | &#9744;  |
+
+</details>
 
 <details markdown="1">
 <summary><strong>✅ 5주차: 2022-10-31 ~ 2022-11-07</strong></summary>
@@ -18,9 +29,9 @@
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범 | `해시(Hash)` | Level 3 | &#9744;  |
-| [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |   더 맵게   |  `힙(Heap)`  | Level 2 | &#9744;  |
-| [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |  소수 찾기  |  `완전탐색`  | Level 2 | &#9744;  |
+| [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범 | `해시(Hash)` | Level 3 | :white_check_mark:  |
+| [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |   더 맵게   |  `힙(Heap)`  | Level 2 | :white_check_mark:  |
+| [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |  소수 찾기  |  `완전탐색`  | Level 2 | :white_check_mark:  |
 
 </details>
 
