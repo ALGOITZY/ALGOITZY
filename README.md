@@ -1,4 +1,5 @@
 # 취업/이직 코딩테스트 대비 알고리즘 스터디 - ALGOITZY ✨
+`"중요한 건 꺾이지 않는 마음"`
 
 [스터디 상세 규칙](https://github.com/algorithm-study/algorithm-study/wiki/%F0%9F%94%A5-%EC%8A%A4%ED%84%B0%EB%94%94-Branch-%EB%B0%8F-PR-%EA%B7%9C%EC%B9%99-%F0%9F%94%A5) 참고 
 
@@ -9,8 +10,9 @@
 - 다같이 풀어보고 싶거나 추천하고 싶은 문제는 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 추천한다.
 - 문제가 아무리 안풀려도, 리뷰 전까지는 절대 찾아보지말고 혼자 생각해본다.
 
-
 # 문제
+[프로그래머스 - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+
 <details markdown="1">
 <summary><strong>✅ 6주차: 2022-11-07 ~ 2022-11-14</strong></summary>
 <br/>
