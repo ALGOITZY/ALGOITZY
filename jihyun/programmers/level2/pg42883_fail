@@ -1,0 +1,28 @@
+import java.util.*;
+// pg 42883
+class pg42883_fail {
+    public static String maxStr = "0";
+    public static String[] numberArray;
+    public String solution(String number, int k) {
+        numberArray = number.split("");
+        
+        int maxLength = number.length() - k;
+        makeNumSet("", 0, maxLength);
+        
+        return maxStr;
+    }
+    
+    private void makeNumSet(String str, int idx, int maxLength){
+        if(str.length() == maxLength){
+            int max = Integer.parseInt(maxStr);
+            int strVal = Integer.parseInt(str);
+            maxStr = String.valueOf(Math.max(max, strVal));
+            return;
+        }
+        
+        if(idx == numberArray.length) return;
+        
+        makeNumSet(str, idx+1, maxLength);
+        makeNumSet(str+numberArray[idx], idx+1, maxLength);
+    }
+}
