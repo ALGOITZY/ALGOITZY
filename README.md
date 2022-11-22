@@ -11,18 +11,29 @@
 - 문제가 아무리 안풀려도, 리뷰 전까지는 절대 찾아보지말고 혼자 생각해본다.
 
 # 문제
-[프로그래머스 - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+~~[프로그래머스 - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 추후 다시 풀이 예정~~ <br>
+[백준(baekjoon) - code.plus 문제집](https://www.acmicpc.net/workbook/codeplus/1)
+
+<details markdown="1">
+<summary><strong>✨ 8주차: 2022-11-21 ~ 2022-11-28</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | `브루트포스` | 브론즈 1 | &#9744; |
+| [3085](https://www.acmicpc.net/problem/3085) | 사탕 게임 | `브루트포스` | 브론즈 1 | &#9744; |
+| [1476](https://www.acmicpc.net/problem/1476) | 날짜 계산 | `브루트포스` | 브론즈 1 | &#9744; |
+
+</details>
 
 <details markdown="1">
 <summary><strong>🛠️ 7주차: 2022-11-14 ~ 2022-11-21</strong></summary>
 <br/>
 
-- [ ] 정답률이 낮았던 `베스트 앨범`, `조이스틱` 다시 풀어보기!
-
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [43165](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 타겟 넘버 | `깊이/너비 우선 탐색(DFS/BFS)` | Level 2 | &#9744; |
-| [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범 | `해시(Hash)` | Level 3 | &#9744; |
+| [43165](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 타겟 넘버 | `깊이/너비 우선 탐색(DFS/BFS)` | Level 2 | :white_check_mark: |
+| [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범 | `해시(Hash)` | Level 3 | :white_check_mark: |
 | [42860](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | 조이스틱 | `탐욕법(Greedy)` | Level 2 | &#9744; |
 
 </details>
