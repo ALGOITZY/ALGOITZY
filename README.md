@@ -15,14 +15,27 @@
 [백준(baekjoon) - code.plus 문제집](https://www.acmicpc.net/workbook/codeplus/1)
 
 <details markdown="1">
+<summary><strong>❄️ 9주차: 2022-11-28 ~ 2022-12-04</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [42860](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | 조이스틱 | `탐욕법(Greedy)` | Level 2 | &#9744; |
+| [3085](https://www.acmicpc.net/problem/3085) | 사탕 게임 | `브루트포스` | 실버 3 | &#9744; |
+| [9095](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | `브루트포스` | 실버 3 | &#9744; |
+| [1748](https://www.acmicpc.net/problem/1748) | 수 이어 쓰기 1 | `브루트포스` | 실버 4 | &#9744; |
+
+</details>
+
+<details markdown="1">
 <summary><strong>✨ 8주차: 2022-11-21 ~ 2022-11-28</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | `브루트포스` | 브론즈 1 | &#9744; |
-| [3085](https://www.acmicpc.net/problem/3085) | 사탕 게임 | `브루트포스` | 브론즈 1 | &#9744; |
-| [1476](https://www.acmicpc.net/problem/1476) | 날짜 계산 | `브루트포스` | 브론즈 1 | &#9744; |
+| [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | `브루트포스` | 브론즈 1 | :white_check_mark: |
+| [3085](https://www.acmicpc.net/problem/3085) | 사탕 게임 | `브루트포스` | 실버 3 | &#9744; |
+| [1476](https://www.acmicpc.net/problem/1476) | 날짜 계산 | `브루트포스` | 실버 5 | :white_check_mark: |
 
 </details>
 
