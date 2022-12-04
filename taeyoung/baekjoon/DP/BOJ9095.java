@@ -23,27 +23,18 @@ public class BOJ9095 {
     }
 
     public static void solution(int n, int[] arr) {
-        int[] answer = new int[n];
-        ArrayList<Integer> dp = new ArrayList<>();
+        int[] dp = new int[11]; //n은 양수이며 11보다 작다.
 
-        //f(n) = f(n-1) + f(n-2) + f(n-3)
-        dp.add(1);
-        dp.add(2);
-        dp.add(4);
-        int last = 3;
-        for(int i=0; i<n;i++){
-            while(true){
-                if(last>arr[i]-1){
-                    answer[i] = dp.get(arr[i]-1);
-                    break;
-                }else{
-                    dp.add(dp.get(last-1)+dp.get(last-2)+dp.get(last-3));
-                    last++;
-                }
-            }
+        dp[0] = 1;
+        dp[1] = 2;
+        dp[2] = 4;
+
+        for (int i = 3; i < 11; i++) {
+            //f(n) = f(n-1) + f(n-2) + f(n-3)
+            dp[i] = dp[i-1]+dp[i-2]+dp[i-3];
         }
-        for(int i:answer){
-            System.out.println(i);
+        for(int i:arr){
+            System.out.println(dp[i-1]);
         }
     }
 }
