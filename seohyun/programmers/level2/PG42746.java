@@ -1,4 +1,4 @@
-package level2;
+package algoitzy.week3;
 
 import java.util.Arrays;
 import java.util.Collections;
