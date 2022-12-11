@@ -3,6 +3,10 @@
 
 [스터디 상세 규칙](https://github.com/algorithm-study/algorithm-study/wiki/%F0%9F%94%A5-%EC%8A%A4%ED%84%B0%EB%94%94-Branch-%EB%B0%8F-PR-%EA%B7%9C%EC%B9%99-%F0%9F%94%A5) 참고 
 
+# 벌금 규칙
+- 기본 보증금 5000원 입금
+- 주차별로 못푼 문제당 1000원...
+
 # 스터디 진행 방식
 - 매주 월요일에 출제되는 3 + α 개의 문제를 Java 언어로 일요일까지 풀어서 PR(Pull Request)한다.
 - 공유하고 싶은 공부한 내용이나 팁 등을 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 공유한다.
@@ -12,7 +16,20 @@
 
 # 문제
 ~~[프로그래머스 - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 추후 다시 풀이 예정~~ <br>
-[백준(baekjoon) - code.plus 문제집](https://www.acmicpc.net/workbook/codeplus/1)
+[백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
+
+<details markdown="1">
+<summary><strong>☃️ 10주차: 2022-12-05 ~ 2022-12-11</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | `그리디 알고리즘` | 실버 4 | &#9744; |
+| [11399](https://www.acmicpc.net/problem/11399) | ATM | `그리디 알고리즘` | 실버 4 | &#9744; |
+| [11047](https://www.acmicpc.net/problem/11047) | 동전 0 | `그리디 알고리즘` | 실버 4 | &#9744; |
+| [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | `그리디 알고리즘` | 실버 1 | &#9744; |
+
+</details>
 
 <details markdown="1">
 <summary><strong>❄️ 9주차: 2022-11-28 ~ 2022-12-04</strong></summary>
@@ -20,10 +37,10 @@
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [42860](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | 조이스틱 | `탐욕법(Greedy)` | Level 2 | &#9744; |
-| [3085](https://www.acmicpc.net/problem/3085) | 사탕 게임 | `브루트포스` | 실버 3 | &#9744; |
-| [9095](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | `브루트포스` | 실버 3 | &#9744; |
-| [1748](https://www.acmicpc.net/problem/1748) | 수 이어 쓰기 1 | `브루트포스` | 실버 4 | &#9744; |
+| [42860](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | 조이스틱 | `탐욕법(Greedy)` | Level 2 | :white_check_mark: |
+| [3085](https://www.acmicpc.net/problem/3085) | 사탕 게임 | `브루트포스` | 실버 3 | :white_check_mark: |
+| [9095](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | `브루트포스` | 실버 3 | :white_check_mark: |
+| [1748](https://www.acmicpc.net/problem/1748) | 수 이어 쓰기 1 | `브루트포스` | 실버 4 | :white_check_mark: |
 
 </details>
 
