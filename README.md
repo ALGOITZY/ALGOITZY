@@ -1,13 +1,14 @@
 # 취업/이직 코딩테스트 대비 알고리즘 스터디 - ALGOITZY ✨
-`"중요한 건 꺾이지 않는 마음"`
+`"코딩테스트 광탈은 괜찮다. 중요한 것은 꺾이지 않는 마음"` <br><br>
+<img src="https://user-images.githubusercontent.com/61447654/207057148-ef29b6b6-e455-401c-9e26-87d2f19a7938.png"  width="100%" height="600"/>
 
-[스터디 상세 규칙](https://github.com/algorithm-study/algorithm-study/wiki/%F0%9F%94%A5-%EC%8A%A4%ED%84%B0%EB%94%94-Branch-%EB%B0%8F-PR-%EA%B7%9C%EC%B9%99-%F0%9F%94%A5) 참고 
-
-# 벌금 규칙
-- 기본 보증금 5000원 입금
-- 주차별로 못푼 문제당 1000원...
+# 보증금 & 벌금 규칙
+> 📔 [ALGOITZY 출석부](https://ddmkim94.notion.site/ALGOITZY-PR-e1821fc591144384b65f4a1068b2e1a0)
+- 매달 초에 `5000원`의 보증금을 입금한다. (매달 1일에 초기화)
+- 매주 `(못푼 문제 X 1000)원`의 벌금을 입금한다.
 
 # 스터디 진행 방식
+[스터디 상세 규칙](https://github.com/algorithm-study/algorithm-study/wiki/%F0%9F%94%A5-%EC%8A%A4%ED%84%B0%EB%94%94-Branch-%EB%B0%8F-PR-%EA%B7%9C%EC%B9%99-%F0%9F%94%A5) 참고 
 - 매주 월요일에 출제되는 3 + α 개의 문제를 Java 언어로 일요일까지 풀어서 PR(Pull Request)한다.
 - 공유하고 싶은 공부한 내용이나 팁 등을 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 공유한다.
 - 문제를 풀면서 이해가 안되거나 도움이 필요할 경우 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 질문한다.
@@ -18,16 +19,30 @@
 ~~[프로그래머스 - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 추후 다시 풀이 예정~~ <br>
 [백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
 
+
+<details markdown="1">
+<summary><strong>🐰 11주차: 2022-12-12 ~ 2022-12-18</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [1026](https://www.acmicpc.net/problem/1026) | 보물 | `그리디 알고리즘` | 실버 4 | &#9744; |
+| [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 | `그리디 알고리즘` | 실버 2 | &#9744; |
+| [2217](https://www.acmicpc.net/problem/2217) | 로프 | `그리디 알고리즘` | 실버 4 | &#9744; |
+| [1789](https://www.acmicpc.net/problem/1789) | 수들의 합 | `그리디 알고리즘` | 실버 5 | &#9744; |
+
+</details>
+
 <details markdown="1">
 <summary><strong>☃️ 10주차: 2022-12-05 ~ 2022-12-11</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | `그리디 알고리즘` | 실버 4 | &#9744; |
-| [11399](https://www.acmicpc.net/problem/11399) | ATM | `그리디 알고리즘` | 실버 4 | &#9744; |
-| [11047](https://www.acmicpc.net/problem/11047) | 동전 0 | `그리디 알고리즘` | 실버 4 | &#9744; |
-| [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | `그리디 알고리즘` | 실버 1 | &#9744; |
+| [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | `그리디 알고리즘` | 실버 4 | :white_check_mark: |
+| [11399](https://www.acmicpc.net/problem/11399) | ATM | `그리디 알고리즘` | 실버 4 | :white_check_mark: |
+| [11047](https://www.acmicpc.net/problem/11047) | 동전 0 | `그리디 알고리즘` | 실버 4 | :white_check_mark: |
+| [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | `그리디 알고리즘` | 실버 1 | :white_check_mark: |
 
 </details>
 
@@ -51,13 +66,13 @@
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
 | [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | `브루트포스` | 브론즈 1 | :white_check_mark: |
-| [3085](https://www.acmicpc.net/problem/3085) | 사탕 게임 | `브루트포스` | 실버 3 | &#9744; |
+| [3085](https://www.acmicpc.net/problem/3085) | 사탕 게임 | `브루트포스` | 실버 3 | :white_check_mark: |
 | [1476](https://www.acmicpc.net/problem/1476) | 날짜 계산 | `브루트포스` | 실버 5 | :white_check_mark: |
 
 </details>
 
 <details markdown="1">
-<summary><strong>🛠️ 7주차: 2022-11-14 ~ 2022-11-21</strong></summary>
+<summary><strong>🌭 7주차: 2022-11-14 ~ 2022-11-21</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
@@ -70,7 +85,7 @@
 
 
 <details markdown="1">
-<summary><strong>✅ 6주차: 2022-11-07 ~ 2022-11-14</strong></summary>
+<summary><strong>🔯 6주차: 2022-11-07 ~ 2022-11-14</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
@@ -82,7 +97,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>✅ 5주차: 2022-10-31 ~ 2022-11-07</strong></summary>
+<summary><strong>😲 5주차: 2022-10-31 ~ 2022-11-07</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
@@ -95,7 +110,7 @@
 
 
 <details markdown="1">
-<summary><strong>✅ 4주차: 2022-10-24 ~ 2022-10-31</strong></summary>
+<summary><strong>🌱 4주차: 2022-10-24 ~ 2022-10-31</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
@@ -107,7 +122,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>✅ 3주차: 2022-10-17 ~ 2022-10-24</strong></summary>
+<summary><strong>🍯 3주차: 2022-10-17 ~ 2022-10-24</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
@@ -120,7 +135,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>✅ 2주차: 2022-10-10 ~ 2022-10-17</strong></summary>
+<summary><strong>🍬 2주차: 2022-10-10 ~ 2022-10-17</strong></summary>
 <br/>
 
 | 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 | 풀이여부 |
