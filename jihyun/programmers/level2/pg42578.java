@@ -9,7 +9,7 @@ public class pg42578 {
         for(String[] item : items) {
             map.put(item[1], map.getOrDefault(item[1], 0) + 1);
         }
-n
+
         int answer = 1;
         for(String key : map.keySet()){
             answer *= (map.get(key)+1);

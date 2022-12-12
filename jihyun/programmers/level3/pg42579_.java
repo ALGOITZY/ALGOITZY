@@ -1,7 +1,7 @@
 import java.util.*;
 // https://school.programmers.co.kr/learn/courses/30/lessons/42579#
 // 베스트앨범
-class pg42579 {
+public class pg42579_ {
     public int[] solution(String[] genres, int[] plays) {
         
         // 1. 속한 노래가 많이 재생된 장르순으로 정리
