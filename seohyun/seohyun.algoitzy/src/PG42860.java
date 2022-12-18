@@ -1,5 +1,3 @@
-package algoitzy.week2;
-
 public class PG42860 {
 
     class Solution {
