@@ -145,3 +145,8 @@ replay_pid*
 *.iml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java
+seohyun/.idea/vcs.xml
+seohyun/.idea/uiDesigner.xml
+seohyun/.idea/modules.xml
+seohyun/.idea/misc.xml
+seohyun/.idea/aws.xml
