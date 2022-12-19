@@ -1,5 +1,3 @@
-package algoitzy.week3;
-
 import java.io.*;
 import java.util.StringTokenizer;
 

@@ -1,5 +1,3 @@
-package algoitzy.week10;
-
 import java.io.*;
 
 // 설탕배달
