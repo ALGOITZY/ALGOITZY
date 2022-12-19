@@ -21,15 +21,13 @@
 [백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
 
 <details markdown="1">
-<summary><strong>🎅🏻 12주차: 2022-12-19 ~ 2022-12-25</strong></summary>
+<summary><strong>🎅🏻 12주차: 2022-12-19 ~ 2022-12-22</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
 | [13305](https://www.acmicpc.net/problem/13305) | 주유소 | `그리디 알고리즘` | 실버 3 | &#9744; |
 | [10610](https://www.acmicpc.net/problem/10610) | 30 | `그리디 알고리즘` | 실버 4 | &#9744; |
-| [1946](https://www.acmicpc.net/problem/1946) | 신입 사원 | `그리디 알고리즘` | 실버 1 | &#9744; |
-| [1439](https://www.acmicpc.net/problem/1439) | 뒤집기 | `그리디 알고리즘` | 실버 5 | &#9744; |
 
 </details>
 
