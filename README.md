@@ -5,19 +5,33 @@
 # 보증금 & 벌금 규칙
 > 📔 [ALGOITZY 출석부](https://ddmkim94.notion.site/ALGOITZY-PR-e1821fc591144384b65f4a1068b2e1a0)
 - 매달 초에 `5000원`의 보증금을 입금한다. (매달 1일에 초기화)
-- 매주 `(못푼 문제 X 1000)원`의 벌금을 입금한다.
+- 못 푼 문제당 `1000원`의 벌금을 입금한다.
+- PR 시간을 지키지 못한 경우 문제수 만큼 벌금을 입금한다.
 
 # 스터디 진행 방식
 [스터디 상세 규칙](https://github.com/algorithm-study/algorithm-study/wiki/%F0%9F%94%A5-%EC%8A%A4%ED%84%B0%EB%94%94-Branch-%EB%B0%8F-PR-%EA%B7%9C%EC%B9%99-%F0%9F%94%A5) 참고 
-- 매주 월요일에 출제되는 3 + α 개의 문제를 Java 언어로 일요일까지 풀어서 PR(Pull Request)한다.
+- 매주 월요일에 출제되는 4개의 문제를 Java 언어로 일요일까지 풀어서 PR(Pull Request)한다.
 - 공유하고 싶은 공부한 내용이나 팁 등을 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 공유한다.
 - 문제를 풀면서 이해가 안되거나 도움이 필요할 경우 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 질문한다.
 - 다같이 풀어보고 싶거나 추천하고 싶은 문제는 [여기](https://github.com/algorithm-study/algorithm-study/discussions)에 추천한다.
-- 문제가 아무리 안풀려도, 리뷰 전까지는 절대 찾아보지말고 혼자 생각해본다.
+- **`문제가 아무리 안풀려도, 리뷰 전까지는 절대 찾아보지말고 혼자 생각해본다.`**
 
 # 문제
 ~~[프로그래머스 - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 추후 다시 풀이 예정~~ <br>
 [백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
+
+<details markdown="1">
+<summary><strong>🎅🏻 12주차: 2022-12-19 ~ 2022-12-25</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [13305](https://www.acmicpc.net/problem/13305) | 주유소 | `그리디 알고리즘` | 실버 3 | &#9744; |
+| [10610](https://www.acmicpc.net/problem/10610) | 30 | `그리디 알고리즘` | 실버 4 | &#9744; |
+| [1946](https://www.acmicpc.net/problem/1946) | 신입 사원 | `그리디 알고리즘` | 실버 1 | &#9744; |
+| [1439](https://www.acmicpc.net/problem/1439) | 뒤집기 | `그리디 알고리즘` | 실버 5 | &#9744; |
+
+</details>
 
 
 <details markdown="1">
@@ -26,10 +40,10 @@
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [1026](https://www.acmicpc.net/problem/1026) | 보물 | `그리디 알고리즘` | 실버 4 | &#9744; |
-| [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 | `그리디 알고리즘` | 실버 2 | &#9744; |
-| [2217](https://www.acmicpc.net/problem/2217) | 로프 | `그리디 알고리즘` | 실버 4 | &#9744; |
-| [1789](https://www.acmicpc.net/problem/1789) | 수들의 합 | `그리디 알고리즘` | 실버 5 | &#9744; |
+| [1026](https://www.acmicpc.net/problem/1026) | 보물 | `그리디 알고리즘` | 실버 4 | :white_check_mark: |
+| [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 | `그리디 알고리즘` | 실버 2 | :white_check_mark: |
+| [2217](https://www.acmicpc.net/problem/2217) | 로프 | `그리디 알고리즘` | 실버 4 | :white_check_mark: |
+| [1789](https://www.acmicpc.net/problem/1789) | 수들의 합 | `그리디 알고리즘` | 실버 5 | :white_check_mark: |
 
 </details>
 
