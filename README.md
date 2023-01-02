@@ -1,6 +1,5 @@
 # 취업/이직 코딩테스트 대비 알고리즘 스터디 - ALGOITZY ✨
 `"코딩테스트 광탈은 괜찮다. 중요한 것은 꺾이지 않는 마음"` <br><br>
-<img src="https://user-images.githubusercontent.com/61447654/207057148-ef29b6b6-e455-401c-9e26-87d2f19a7938.png"  width="100%" height="600"/>
 
 # 보증금 & 벌금 규칙
 > 📔 [ALGOITZY 출석부](https://ddmkim94.notion.site/ALGOITZY-PR-e1821fc591144384b65f4a1068b2e1a0)
@@ -21,15 +20,32 @@
 [백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
 
 <details markdown="1">
+<summary><strong>🎊 14주차: 2022-01-02 ~ 2022-01-08</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [1449](https://www.acmicpc.net/problem/1449) | 수리공 항승 | `그리디 알고리즘` | 실버 3 | &#9744; |
+| [1080](https://www.acmicpc.net/problem/1080) | 행렬 | `그리디 알고리즘` | 실버 1 | &#9744; |
+| [1213](https://www.acmicpc.net/problem/1213) | 팰린드롬 만들기 | `그리디 알고리즘` | 실버 3 | &#9744; |
+| [14916](https://www.acmicpc.net/problem/14916) | 거스름돈 | `그리디 알고리즘` | 실버 5 | &#9744; |
+
+</details>
+
+<details markdown="1">
+<summary><strong>🐯 2022</strong></summary>
+<br/>
+
+<details markdown="1">
 <summary><strong>🎉 13주차: 2022-12-26 ~ 2022-01-01</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [1946](https://www.acmicpc.net/problem/1946) | 신입 사원 | `그리디 알고리즘` | 실버 1 | &#9744; |
-| [1439](https://www.acmicpc.net/problem/1439) | 뒤집기 | `그리디 알고리즘` | 실버 5 | &#9744; |
-| [16953](https://www.acmicpc.net/problem/16953) | A → B | `그리디 알고리즘` | 실버 2 | &#9744; |
-| [1049](https://www.acmicpc.net/problem/1049) | 기타줄 | `그리디 알고리즘` | 실버 4 | &#9744; |
+| [1946](https://www.acmicpc.net/problem/1946) | 신입 사원 | `그리디 알고리즘` | 실버 1 | :white_check_mark: |
+| [1439](https://www.acmicpc.net/problem/1439) | 뒤집기 | `그리디 알고리즘` | 실버 5 | :white_check_mark: |
+| [16953](https://www.acmicpc.net/problem/16953) | A → B | `그리디 알고리즘` | 실버 2 | :white_check_mark: |
+| [1049](https://www.acmicpc.net/problem/1049) | 기타줄 | `그리디 알고리즘` | 실버 4 | :white_check_mark: |
 
 </details>
 
@@ -179,5 +195,7 @@
 | :--------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :------: | :---------:|
 | [1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                 | 폰켓몬 | `해시(Hash)` | Level 1 | :white_check_mark: |
 | [42576](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지 못한 선수 | `해시(Hash)` | Level 1 | :white_check_mark: |
+
+</details>
 
 </details>
