@@ -7,6 +7,10 @@ import java.util.StringTokenizer;
 
 public class BOJ1080 {
     static class Solution {
+        static int n, m;
+        static int[][] A;
+        static int[][] B;
+    
         public void sol() throws IOException {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             StringTokenizer st = new StringTokenizer(br.readLine());
