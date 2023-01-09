@@ -1,4 +1,4 @@
-# 취업/이직 코딩테스트 대비 알고리즘 스터디 - ALGOITZY ✨
+# ✨ 취업/이직 코딩테스트 대비 알고리즘 스터디 - ALGOITZY ✨
 `"코딩테스트 광탈은 괜찮다. 중요한 것은 꺾이지 않는 마음"` <br><br>
 
 # 보증금 & 벌금 규칙
@@ -20,20 +20,35 @@
 [백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
 
 <details markdown="1">
+<summary><strong>💡 15주차: 2022-01-09 ~ 2022-01-15</strong></summary>
+<br/>
+
+**`"반드시 DP(동적 계획법) 방식으로 풀어주세요!"`**
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | `다이나믹 프로그래밍` | 실버 4 | &#9744; |
+| [11399](https://www.acmicpc.net/problem/11399) | ATM | `다이나믹 프로그래밍` | 실버 4 | &#9744; |
+| [11047](https://www.acmicpc.net/problem/11047) | 동전 0 | `다이나믹 프로그래밍` | 실버 4 | &#9744; |
+| [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | `다이나믹 프로그래밍` | 실버 1 | &#9744; |
+
+</details>
+
+<details markdown="1">
 <summary><strong>🎊 14주차: 2022-01-02 ~ 2022-01-08</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [1449](https://www.acmicpc.net/problem/1449) | 수리공 항승 | `그리디 알고리즘` | 실버 3 | &#9744; |
-| [1080](https://www.acmicpc.net/problem/1080) | 행렬 | `그리디 알고리즘` | 실버 1 | &#9744; |
-| [1213](https://www.acmicpc.net/problem/1213) | 팰린드롬 만들기 | `그리디 알고리즘` | 실버 3 | &#9744; |
-| [14916](https://www.acmicpc.net/problem/14916) | 거스름돈 | `그리디 알고리즘` | 실버 5 | &#9744; |
+| [1449](https://www.acmicpc.net/problem/1449) | 수리공 항승 | `그리디 알고리즘` | 실버 3 | :white_check_mark: |
+| [1080](https://www.acmicpc.net/problem/1080) | 행렬 | `그리디 알고리즘` | 실버 1 | :white_check_mark: |
+| [1213](https://www.acmicpc.net/problem/1213) | 팰린드롬 만들기 | `그리디 알고리즘` | 실버 3 | :white_check_mark: |
+| [14916](https://www.acmicpc.net/problem/14916) | 거스름돈 | `그리디 알고리즘` | 실버 5 | :white_check_mark: |
 
 </details>
 
 <details markdown="1">
-<summary><strong>🐯 2022</strong></summary>
+<summary><strong>🐯 2022년 문제</strong></summary>
 <br/>
 
 <details markdown="1">
