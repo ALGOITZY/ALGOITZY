@@ -20,17 +20,25 @@
 [백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
 
 <details markdown="1">
-<summary><strong>💡 15주차: 2022-01-09 ~ 2022-01-15</strong></summary>
+<summary><strong>🥟 16주차: 2022-01-16 ~ 2022-01-22</strong></summary>
 <br/>
-
-**`"반드시 DP(동적 계획법) 방식으로 풀어주세요!"`**
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | `다이나믹 프로그래밍` | 실버 4 | &#9744; |
-| [11399](https://www.acmicpc.net/problem/11399) | ATM | `다이나믹 프로그래밍` | 실버 4 | &#9744; |
-| [11047](https://www.acmicpc.net/problem/11047) | 동전 0 | `다이나믹 프로그래밍` | 실버 4 | &#9744; |
-| [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | `다이나믹 프로그래밍` | 실버 1 | &#9744; |
+| [1463](https://www.acmicpc.net/problem/1463) | 1로 만들기 | `DP` | 실버 3 | &#9744; |
+| [9095](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | `DP` | 실버 3 | &#9744; |
+| [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | `DP` | 실버 3 | &#9744; |
+| [11726](https://www.acmicpc.net/problem/11726) | 2×n 타일링 | `DP` | 실버 3 | &#9744; |
+
+</details>
+
+<details markdown="1">
+<summary><strong>💡 15주차: 2022-01-09 ~ 2022-01-15</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | `DP` | 실버 4 | :white_check_mark: |
 
 </details>
 
