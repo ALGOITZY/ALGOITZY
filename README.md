@@ -23,12 +23,14 @@
 <summary><strong>🥟 16주차: 2022-01-16 ~ 2022-01-22</strong></summary>
 <br/>
 
+`추가 문제는 풀고 싶은 분만 풀어주세요!`
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
 | [1463](https://www.acmicpc.net/problem/1463) | 1로 만들기 | `DP` | 실버 3 | &#9744; |
 | [9095](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | `DP` | 실버 3 | &#9744; |
 | [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | `DP` | 실버 3 | &#9744; |
 | [11726](https://www.acmicpc.net/problem/11726) | 2×n 타일링 | `DP` | 실버 3 | &#9744; |
+| [12978](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | 배달`(추가문제)` | `BFS/DFS` | Level2 | &#9744; |
 
 </details>
 
