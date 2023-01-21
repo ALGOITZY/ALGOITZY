@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//동적 계획법 bottom-up를 활용한 풀이, 풀이 보고 풀음 ㅅㅂ 나중에 다시 한번 풀것
 public class BOJ1463 {
     static int[] arr;
     public static void main(String[] args) throws IOException {
