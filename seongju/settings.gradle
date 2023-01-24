@@ -1,2 +1,3 @@
 rootProject.name = 'seongju'
+include 'programmers2'
 
