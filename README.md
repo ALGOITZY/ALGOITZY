@@ -20,17 +20,30 @@
 [백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
 
 <details markdown="1">
+<summary><strong>🍓 17주차: 2022-01-24 ~ 2022-01-29</strong></summary>
+<br/>
+
+|                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
+| :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
+| [1874](https://www.acmicpc.net/problem/1874) | 스택 수열 | `스택/큐` | 실버 2 | &#9744; |
+| [10799](https://www.acmicpc.net/problem/10799) | 쇠막대기 | `스택/큐` | 실버 2 | &#9744; |
+| [1406](https://www.acmicpc.net/problem/1406) | 에디터 | `스택/큐` | 실버 2 | &#9744; |
+| [2504](https://www.acmicpc.net/problem/2504) | 괄호의 값 | `스택/큐` | 실버 1 | &#9744; |
+
+</details>
+
+<details markdown="1">
 <summary><strong>🥟 16주차: 2022-01-16 ~ 2022-01-22</strong></summary>
 <br/>
 
 `추가 문제는 풀고 싶은 분만 풀어주세요!`
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [1463](https://www.acmicpc.net/problem/1463) | 1로 만들기 | `DP` | 실버 3 | &#9744; |
-| [9095](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | `DP` | 실버 3 | &#9744; |
-| [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | `DP` | 실버 3 | &#9744; |
-| [11726](https://www.acmicpc.net/problem/11726) | 2×n 타일링 | `DP` | 실버 3 | &#9744; |
-| [12978](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | 배달`(추가문제)` | `BFS/DFS` | Level2 | &#9744; |
+| [1463](https://www.acmicpc.net/problem/1463) | 1로 만들기 | `DP` | 실버 3 | :white_check_mark: |
+| [9095](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | `DP` | 실버 3 | :white_check_mark: |
+| [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | `DP` | 실버 3 | :white_check_mark: |
+| [11726](https://www.acmicpc.net/problem/11726) | 2×n 타일링 | `DP` | 실버 3 | :white_check_mark: |
+| [12978](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | 배달`(추가문제)` | `BFS/DFS` | Level2 | :white_check_mark: |
 
 </details>
 
