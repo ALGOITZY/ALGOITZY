@@ -19,16 +19,17 @@
 ~~[프로그래머스 - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 추후 다시 풀이 예정~~ <br>
 [백준(baekjoon) 유형별 풀이](https://www.acmicpc.net/problem/tags)
 
+__`2022.10.02 ~ 2023.01.29 스터디 종료 👋🏻`__
 <details markdown="1">
 <summary><strong>🍓 17주차: 2022-01-24 ~ 2022-01-29</strong></summary>
 <br/>
 
 |                                 문제번호                                 |  문제이름   |   문제유형   | 난이도  | 풀이여부 |
 | :----------------------------------------------------------------------: | :---------: | :----------: | :-----: | :------: |
-| [1874](https://www.acmicpc.net/problem/1874) | 스택 수열 | `스택/큐` | 실버 2 | &#9744; |
-| [10799](https://www.acmicpc.net/problem/10799) | 쇠막대기 | `스택/큐` | 실버 2 | &#9744; |
-| [1406](https://www.acmicpc.net/problem/1406) | 에디터 | `스택/큐` | 실버 2 | &#9744; |
-| [2504](https://www.acmicpc.net/problem/2504) | 괄호의 값 | `스택/큐` | 실버 1 | &#9744; |
+| [1874](https://www.acmicpc.net/problem/1874) | 스택 수열 | `스택/큐` | 실버 2 | :white_check_mark: |
+| [10799](https://www.acmicpc.net/problem/10799) | 쇠막대기 | `스택/큐` | 실버 2 | :white_check_mark: |
+| [1406](https://www.acmicpc.net/problem/1406) | 에디터 | `스택/큐` | 실버 2 | :white_check_mark: |
+| [2504](https://www.acmicpc.net/problem/2504) | 괄호의 값 | `스택/큐` | 실버 1 | :white_check_mark: |
 
 </details>
 
